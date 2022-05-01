@@ -1,6 +1,6 @@
 # Assets Control App (demo)
 
-My original app for assets control with a user-friendly interface. Technologies used:
+My original app for assets control with a user-friendly interface. Technologies and knowledge used:
 * Flutter,
 * UX/UI Design,
 * Responsive Layout,
