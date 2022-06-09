@@ -1,12 +1,13 @@
-# Assets Control App (demo)
+# Assets Control App (demo version)
 
 My original app for assets control with a user-friendly interface. Technologies and knowledge used:
+* Dart,
 * Flutter,
+* Clean Code,
 * UX/UI Design,
 * Responsive Layout,
-* SOLID Principles,
-* MVVM Architectural Pattern,
 * Provider State Management,
+* MVVM Architectural Pattern,
 * API Rest/Restful Operations,
 * Firebase Authentication,
 * Firebase Cloud Firestore,
